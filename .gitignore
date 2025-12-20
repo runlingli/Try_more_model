@@ -7,8 +7,9 @@ build/
 dist/
 public/build
 out/
+__pycache__/
 .next/ # For Next.js projects
-
+      
 # Logs
 npm-debug.log*
 yarn-debug.log*
