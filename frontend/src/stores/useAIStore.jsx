@@ -6,7 +6,9 @@ const useAIStore = create(
         checkedAI: {
             "OpenAI-4-mini": true, 
             "Deepseek-chat": true, 
-            "Deepseek-reasoner": true
+            "Deepseek-reasoner": true,
+            "Claude-haiku-3": true,
+            "Claude-sonnet-4": true
         }},
         (set) => {
             return {

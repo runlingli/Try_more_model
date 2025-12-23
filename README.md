@@ -4,9 +4,9 @@ An application for testing and comparing responses from multiple AI models at th
 
 ## Project Overview
 
-This project provides a unified interface that allows you to send the same prompt to multiple AI models simultaneously and compare their responses side by side. It supports multiple models from OpenAI and DeepSeek.
-![main_page](frontend/src/assets/main_page.png)
-![modal_page](frontend/src/assets/modal_page.png)
+This project provides a unified interface that allows you to send the same prompt to multiple AI models simultaneously and compare their responses side by side. It supports multiple models from OpenAI, Deepeek and Anthropic.
+| ![main_page](frontend/src/assets/main_page.png) | ![modal_page](frontend/src/assets/modal_page.png) |
+| ----------------------------------------------- | ------------------------------------------------- |
 
 ## Tech Stack
 
