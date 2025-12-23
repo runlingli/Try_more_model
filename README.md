@@ -29,6 +29,8 @@ This project provides a unified interface that allows you to send the same promp
 - OpenAI GPT-4-mini
 - DeepSeek Chat
 - DeepSeek Reasoner
+- Claude-haiku-3
+- Claude-sonnet-4
 
 ## Quick Start
 
@@ -58,8 +60,9 @@ pip install fastapi uvicorn litellm python-dotenv openai
 Create a `.env` file in the `backend` directory:
 
 ```env
-OPENAI_API_KEY=your_openai_api_key
-DEEPSEEK_API_KEY=your_deepseek_api_key
+OPENAI_API_KEY=...
+DEEPSEEK_API_KEY=...
+ANTHROPIC_API_KEY=...
 ```
 
 ### Run the Project
